@@ -1,0 +1,24 @@
+
+
+Token login = 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
+
+===============================1st git project upload command: ========================================
+
+echo "# git-command" >> README.md
+git init
+git status
+git add .
+git status
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/parbhez/git-command.git
+git push -u origin master
+
+=====================================2nd time project upload command: =======================
+jodi .git ta project thake tokhon command 
+
+git add .
+git status
+git commit -m "2nd commit"
+git push
+
